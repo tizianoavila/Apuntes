@@ -1,0 +1,24 @@
+Paso a paso GitHUB
+
+Paso 1: Logearse
+git config --global user.name " "
+git config --global user.email " "
+
+Paso 2: Iniciar repositorio
+git init
+
+Paso 3: Indicar a que repositorio subir 
+git remote -v
+git remote remove origin
+git remote add origin (link)
+
+***************************************
+Paso alterno: Ver estado del archivo
+git status
+***************************************
+
+Paso 4: Subir archivo
+git add " "
+git commit -m (Nombre descriptivo) 
+git branch -m main (Crea una rama principal)
+git push
