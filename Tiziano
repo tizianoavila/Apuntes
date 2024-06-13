@@ -22,5 +22,3 @@ git add " "
 git commit -m (Nombre descriptivo) 
 git branch -m main (Crea una rama principal)
 git push origin main
-
-Hola papacho
